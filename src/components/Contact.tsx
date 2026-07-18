@@ -27,7 +27,7 @@ function GitHubIcon() {
   );
 }
 
-const EMAIL = "raizalongart@gmail.com";
+const EMAIL = "dev.sparkmindlabs@gmail.com";
 
 export default function Contact() {
   const [copied, setCopied] = useState(false);
