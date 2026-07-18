@@ -18,8 +18,8 @@ const projects: Project[] = [
     description:
       "An interactive accessibility auditing dashboard built around WCAG 2.1 guidelines. Surfaces issues with color contrast, keyboard navigation, ARIA roles, and semantic structure — with actionable remediation guidance for each finding.",
     tech: ["Next.js", "TypeScript", "Tailwind CSS", "React Query"],
-    github: "https://github.com/devsparkmindlabs/a11y-lens",
-    live: "https://devsparkmindlabs.github.io/a11y-lens",
+    github: "https://github.com/raizacodes/a11y-lens",
+    live: "https://raizacodes.github.io/a11y-lens",
   },
   {
     title: "DevBoard",
@@ -27,8 +27,8 @@ const projects: Project[] = [
     description:
       "A project management SaaS dashboard with real-time task tracking, role-based access control, and team collaboration features. REST API built with NestJS, PostgreSQL for persistence, and a fully responsive Next.js front-end.",
     tech: ["Next.js", "NestJS", "PostgreSQL", "TypeScript", "Tailwind CSS"],
-    github: "https://github.com/devsparkmindlabs/devboard",
-    live: "https://devsparkmindlabs.github.io/devboard",
+    github: "https://github.com/raizacodes/devboard",
+    live: "https://raizacodes.github.io/devboard",
   },
   {
     title: "ShopFlow",
@@ -36,8 +36,8 @@ const projects: Project[] = [
     description:
       "A high-performance e-commerce storefront with server-side rendering, optimized Core Web Vitals, and a fully accessible shopping experience. Built following WCAG 2.1 AA standards — every interaction works with keyboard and screen readers.",
     tech: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
-    github: "https://github.com/devsparkmindlabs/shopflow",
-    live: "https://devsparkmindlabs.github.io/shopflow",
+    github: "https://github.com/raizacodes/shopflow",
+    live: "https://raizacodes.github.io/shopflow",
   },
 ];
 
@@ -164,7 +164,7 @@ export default function Projects() {
         >
           More projects on{" "}
           <a
-            href="https://github.com/devsparkmindlabs"
+            href="https://github.com/raizacodes"
             target="_blank"
             rel="noopener noreferrer"
             className="font-medium text-indigo-500 hover:text-indigo-400 dark:text-indigo-400 dark:hover:text-indigo-300"
